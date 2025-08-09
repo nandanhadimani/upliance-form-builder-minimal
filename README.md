@@ -122,4 +122,4 @@ This project is licensed under the MIT License.
 
 ## Author
 
-Shirshendu Bhowmick
+Nandan M Hadimani
